@@ -1,0 +1,5 @@
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\.vs\BAE_Restaurante\lut\0\b\BAE_Restaurante.Datos\bin\Debug\BAE_Restaurante.Datos.dll
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\.vs\BAE_Restaurante\lut\0\i\BAE_Restaurante.Datos\Debug\BAE_Restaurante.Datos.csprojAssemblyReference.cache
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\.vs\BAE_Restaurante\lut\0\i\BAE_Restaurante.Datos\Debug\BAE_Restaurante.Datos.csproj.CoreCompileInputs.cache
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\.vs\BAE_Restaurante\lut\0\i\BAE_Restaurante.Datos\Debug\BAE_Restaurante.Datos.csproj.CopyComplete
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\.vs\BAE_Restaurante\lut\0\i\BAE_Restaurante.Datos\Debug\BAE_Restaurante.Datos.dll

@@ -1,0 +1,15 @@
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\.vs\BAE_Restaurante\lut\0\i\BAE_Restaurante.Presentacion\Debug\BAE_Restaurante.Presentacion.csprojAssemblyReference.cache
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\.vs\BAE_Restaurante\lut\0\i\BAE_Restaurante.Presentacion\Debug\BAE_Restaurante.Presentacion.FrmCaja.resources
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\.vs\BAE_Restaurante\lut\0\i\BAE_Restaurante.Presentacion\Debug\BAE_Restaurante.Presentacion.FrmClientes.resources
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\.vs\BAE_Restaurante\lut\0\i\BAE_Restaurante.Presentacion\Debug\BAE_Restaurante.Presentacion.FrmDocVenta.resources
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\.vs\BAE_Restaurante\lut\0\i\BAE_Restaurante.Presentacion\Debug\BAE_Restaurante.Presentacion.FrmEmpleados.resources
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\.vs\BAE_Restaurante\lut\0\i\BAE_Restaurante.Presentacion\Debug\BAE_Restaurante.Presentacion.FrmLogin.resources
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\.vs\BAE_Restaurante\lut\0\i\BAE_Restaurante.Presentacion\Debug\BAE_Restaurante.Presentacion.FrmMantenimiento.resources
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\.vs\BAE_Restaurante\lut\0\i\BAE_Restaurante.Presentacion\Debug\BAE_Restaurante.Presentacion.FrmMesas.resources
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\.vs\BAE_Restaurante\lut\0\i\BAE_Restaurante.Presentacion\Debug\BAE_Restaurante.Presentacion.FrmPedidos.resources
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\.vs\BAE_Restaurante\lut\0\i\BAE_Restaurante.Presentacion\Debug\BAE_Restaurante.Presentacion.FrmPrincipal.resources
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\.vs\BAE_Restaurante\lut\0\i\BAE_Restaurante.Presentacion\Debug\BAE_Restaurante.Presentacion.FrmProductos.resources
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\.vs\BAE_Restaurante\lut\0\i\BAE_Restaurante.Presentacion\Debug\BAE_Restaurante.Presentacion.FrmStart.resources
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\.vs\BAE_Restaurante\lut\0\i\BAE_Restaurante.Presentacion\Debug\BAE_Restaurante.Presentacion.Properties.Resources.resources
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\.vs\BAE_Restaurante\lut\0\i\BAE_Restaurante.Presentacion\Debug\BAE_Restaurante.Presentacion.csproj.GenerateResource.cache
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\.vs\BAE_Restaurante\lut\0\i\BAE_Restaurante.Presentacion\Debug\BAE_Restaurante.Presentacion.csproj.CoreCompileInputs.cache

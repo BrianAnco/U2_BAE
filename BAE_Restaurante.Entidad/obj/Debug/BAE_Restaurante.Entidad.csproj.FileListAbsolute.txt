@@ -1,0 +1,37 @@
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Entidad\bin\Debug\BAE_Restaurante.Entidad.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Entidad\bin\Debug\BAE_Restaurante.Entidad.pdb
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.csprojAssemblyReference.cache
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.csproj.CoreCompileInputs.cache
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.pdb
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Entidad\bin\Debug\BAE_Restaurante.Entidad.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Entidad\bin\Debug\BAE_Restaurante.Entidad.pdb
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.csproj.CoreCompileInputs.cache
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.pdb
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Entidad\bin\Debug\BAE_Restaurante.Entidad.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Entidad\bin\Debug\BAE_Restaurante.Entidad.pdb
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.csprojAssemblyReference.cache
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.pdb
+D:\CGS_BAE_Restaurante\BAE_Restaurante.Entidad\bin\Debug\BAE_Restaurante.Entidad.dll
+D:\CGS_BAE_Restaurante\BAE_Restaurante.Entidad\bin\Debug\BAE_Restaurante.Entidad.pdb
+D:\CGS_BAE_Restaurante\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.csprojAssemblyReference.cache
+D:\CGS_BAE_Restaurante\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.csproj.CoreCompileInputs.cache
+D:\CGS_BAE_Restaurante\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.dll
+D:\CGS_BAE_Restaurante\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.pdb
+D:\BAE_Restaurante\BAE_Restaurante.Entidad\bin\Debug\BAE_Restaurante.Entidad.dll
+D:\BAE_Restaurante\BAE_Restaurante.Entidad\bin\Debug\BAE_Restaurante.Entidad.pdb
+D:\BAE_Restaurante\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.csprojAssemblyReference.cache
+D:\BAE_Restaurante\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.csproj.CoreCompileInputs.cache
+D:\BAE_Restaurante\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.dll
+D:\BAE_Restaurante\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.pdb
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\BAE_Restaurante.Entidad\bin\Debug\BAE_Restaurante.Entidad.dll
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\BAE_Restaurante.Entidad\bin\Debug\BAE_Restaurante.Entidad.pdb
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.csprojAssemblyReference.cache
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.csproj.CoreCompileInputs.cache
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.dll
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.pdb
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\BAE_Restaurante.Entidad\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\UNIVERSIDAD 7\Calidad y pruebas de software\FINAL UNI2\tf_u02-master\BAE_Restaurante.Entidad\obj\Debug\BAE_Restaurante.Entidad.csproj.CopyComplete
